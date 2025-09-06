@@ -1,0 +1,4 @@
+In Python you can read from a file using the pathlib module.
+In Python you can repeat an action until a condition is met using a while loop.
+In Python you can enter arguments either positionally or by keyword arguments.
+In Python you can plot charts using the matplotlib module.
